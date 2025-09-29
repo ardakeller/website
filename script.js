@@ -1,4 +1,3 @@
-// Smooth hover efekti için
 document.addEventListener('DOMContentLoaded', function() {
     const card = document.querySelector('.card');
     
